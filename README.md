@@ -11,4 +11,5 @@
  
 ## Demo
 
-[![Demo Video]("D:\Waste Classification and  Recycling\demo video.mp4.mp4")
+![Demo GIF](assets/demo_video.gif)
+

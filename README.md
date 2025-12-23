@@ -14,7 +14,7 @@
 [Watch Demo Video](./demo.mp4)
 
 ---
-Software & Hardware Used :
+## Software & Hardware Used :
 
 Programming Language:
 Python – For programming sensors, camera module, and implementing AI models.
@@ -46,7 +46,7 @@ Cloud Services & Deployment:
 AWS / Google Cloud / Azure – Train CNN models using large datasets and computational resources.
 
 ---
-End Users
+## End Users
 ---
 Municipal Waste Management Authorities - For efficient waste segregation and management in cities and towns.
 Recycling Companies and Facilities – To automatically categorize and sort waste, improving recycling efficiency.

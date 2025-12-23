@@ -14,29 +14,30 @@
 [Watch Demo Video](./demo.mp4)
 
 ---
-# Software & Hardware Used :
+## Software & Hardware Used
 
-## Programming Language:
--Python – For programming sensors, camera module, and implementing AI models.
+### Programming Language
+- Python – Used for programming sensors, camera module, and implementing AI models.
 
-## Microcontroller:
--ESP32 – Controls sensors and servo motor for waste sorting.
+### Microcontroller
+- ESP32 – Controls sensors and the servo motor for waste sorting.
 
-## Actuators & Sensors:
--Servo Motor – Physically sorts waste into different categories by rotating to specific angles.
--I2C LCD Display – Shows the type of waste currently detected.
+### Actuators & Sensors
+- Servo Motor – Physically sorts waste into different categories by rotating to specific angles.
+- I2C LCD Display – Displays the type of waste currently detected.
+- Moisture Sensor – Measures moisture to differentiate between wet and dry waste.
 
-## Deep Learning & AI:
--TensorFlow / Keras – Building and training Convolutional Neural Network (CNN) models.
--PyTorch – Alternative deep learning framework for CNN development.
+### Deep Learning & AI
+- TensorFlow / Keras – Used for building and training Convolutional Neural Network (CNN) models.
+- PyTorch – Alternative deep learning framework for CNN development.
 
-## Model Architecture:
--Convolutional Neural Network (CNN) – Uses convolution, pooling, and fully connected layers to extract features and classify waste types.
--Moisture Sensor – Measures moisture to differentiate between wet and dry waste.
+### Model Architecture
+- Convolutional Neural Network (CNN) – Uses convolution, pooling, and fully connected layers to extract features and classify waste types.
 
-## Data Preparation & Labeling:
--Image Datasets – Labeled images of waste categories like Plastic, Paper, Metal, Glass, Organic, etc.
--Data Augmentation – Techniques such as rotation, flipping, and cropping to increase dataset variety and reduce overfitting.
+### Data Preparation & Labeling
+- Image Datasets – Labeled images of waste categories such as Plastic, Paper, Metal, Glass, and Organic waste.
+- Data Augmentation – Techniques like rotation, flipping, and cropping to increase dataset variety and reduce overfitting.
+
 
 ## Hardware & IoT Integration:
 -Edge devices (Raspberry Pi / NVIDIA Jetson Nano) – Deploy lightweight CNN models for real-time waste classification.

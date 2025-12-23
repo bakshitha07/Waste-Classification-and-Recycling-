@@ -39,7 +39,7 @@
 - Data Augmentation – Techniques like rotation, flipping, and cropping to increase dataset variety and reduce overfitting.
 
 
-## Hardware & IoT Integration:
+### Hardware & IoT Integration:
 -Edge devices (Raspberry Pi / NVIDIA Jetson Nano) – Deploy lightweight CNN models for real-time waste classification.
 -Microcontrollers (NodeMCU / ESP32) – Integrate sensors to monitor bin conditions.
 

@@ -16,34 +16,34 @@
 ---
 ## Software & Hardware Used :
 
-Programming Language:
-Python – For programming sensors, camera module, and implementing AI models.
+##Programming Language:
+-Python – For programming sensors, camera module, and implementing AI models.
 
-Microcontroller:
-ESP32 – Controls sensors and servo motor for waste sorting.
+##Microcontroller:
+-ESP32 – Controls sensors and servo motor for waste sorting.
 
-Actuators & Sensors:
-Servo Motor – Physically sorts waste into different categories by rotating to specific angles.
-I2C LCD Display – Shows the type of waste currently detected.
+##Actuators & Sensors:
+-Servo Motor – Physically sorts waste into different categories by rotating to specific angles.
+-I2C LCD Display – Shows the type of waste currently detected.
 
-Deep Learning & AI:
-TensorFlow / Keras – Building and training Convolutional Neural Network (CNN) models.
-PyTorch – Alternative deep learning framework for CNN development.
+##Deep Learning & AI:
+-TensorFlow / Keras – Building and training Convolutional Neural Network (CNN) models.
+-PyTorch – Alternative deep learning framework for CNN development.
 
-Model Architecture:
-Convolutional Neural Network (CNN) – Uses convolution, pooling, and fully connected layers to extract features and classify waste types.
-Moisture Sensor – Measures moisture to differentiate between wet and dry waste.
+##Model Architecture:
+-Convolutional Neural Network (CNN) – Uses convolution, pooling, and fully connected layers to extract features and classify waste types.
+-Moisture Sensor – Measures moisture to differentiate between wet and dry waste.
 
-Data Preparation & Labeling:
-Image Datasets – Labeled images of waste categories like Plastic, Paper, Metal, Glass, Organic, etc.
-Data Augmentation – Techniques such as rotation, flipping, and cropping to increase dataset variety and reduce overfitting.
+##Data Preparation & Labeling:
+-Image Datasets – Labeled images of waste categories like Plastic, Paper, Metal, Glass, Organic, etc.
+-Data Augmentation – Techniques such as rotation, flipping, and cropping to increase dataset variety and reduce overfitting.
 
-Hardware & IoT Integration:
-Edge devices (Raspberry Pi / NVIDIA Jetson Nano) – Deploy lightweight CNN models for real-time waste classification.
-Microcontrollers (NodeMCU / ESP32) – Integrate sensors to monitor bin conditions.
+##Hardware & IoT Integration:
+-Edge devices (Raspberry Pi / NVIDIA Jetson Nano) – Deploy lightweight CNN models for real-time waste classification.
+-Microcontrollers (NodeMCU / ESP32) – Integrate sensors to monitor bin conditions.
 
-Cloud Services & Deployment:
-AWS / Google Cloud / Azure – Train CNN models using large datasets and computational resources.
+##Cloud Services & Deployment:
+-AWS / Google Cloud / Azure – Train CNN models using large datasets and computational resources.
 
 ---
 ## End Users

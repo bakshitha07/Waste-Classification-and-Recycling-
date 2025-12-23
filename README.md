@@ -44,8 +44,7 @@ This project aims to develop a smart waste management system that handles waste 
 * Deploy lightweight CNN models for real-time waste classification.
 * Microcontrollers (NodeMCU / ESP32) – Integrate sensors to monitor bin conditions.
 
-## Cloud Services & Deployment:
--AWS / Google Cloud / Azure – Train CNN models using large datasets and computational resources.
+
 
 ---
 ## End Users

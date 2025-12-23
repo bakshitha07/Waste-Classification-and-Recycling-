@@ -48,6 +48,6 @@ AWS / Google Cloud / Azure – Train CNN models using large datasets and computa
 ---
 ## End Users
 ---
-Municipal Waste Management Authorities - For efficient waste segregation and management in cities and towns.
-Recycling Companies and Facilities – To automatically categorize and sort waste, improving recycling efficiency.
-Smart Waste Bin Manufacturers – To integrate AI-powered sorting and monitoring into intelligent bin systems.
+1. Municipal Waste Management Authorities - For efficient waste segregation and management in cities and towns.
+2. Recycling Companies and Facilities – To automatically categorize and sort waste, improving recycling efficiency.
+3. Smart Waste Bin Manufacturers – To integrate AI-powered sorting and monitoring into intelligent bin systems.

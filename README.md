@@ -40,8 +40,9 @@
 
 
 ### Hardware & IoT Integration:
--Edge devices (Raspberry Pi / NVIDIA Jetson Nano) – Deploy lightweight CNN models for real-time waste classification.
--Microcontrollers (NodeMCU / ESP32) – Integrate sensors to monitor bin conditions.
+* Edge devices (Raspberry Pi / NVIDIA Jetson Nano) 
+* Deploy lightweight CNN models for real-time waste classification.
+* Microcontrollers (NodeMCU / ESP32) – Integrate sensors to monitor bin conditions.
 
 ## Cloud Services & Deployment:
 -AWS / Google Cloud / Azure – Train CNN models using large datasets and computational resources.

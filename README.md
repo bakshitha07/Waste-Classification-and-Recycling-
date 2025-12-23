@@ -11,5 +11,6 @@
  
 ## Demo
 
-![Demo GIF](assets/demo_video.gif)
+[Watch Demo Video](./demo.mp4)
+
 

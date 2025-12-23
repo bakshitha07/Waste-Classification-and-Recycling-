@@ -14,14 +14,39 @@
 [Watch Demo Video](./demo.mp4)
 
 ---
-## 🛠 Tech Stack
+Software & Hardware Used :
 
-**Programming Language:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+Programming Language:
+Python – For programming sensors, camera module, and implementing AI models.
 
-**Deep Learning Frameworks:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+Microcontroller:
+ESP32 – Controls sensors and servo motor for waste sorting.
 
+Actuators & Sensors:
+Servo Motor – Physically sorts waste into different categories by rotating to specific angles.
+I2C LCD Display – Shows the type of waste currently detected.
 
+Deep Learning & AI:
+TensorFlow / Keras – Building and training Convolutional Neural Network (CNN) models.
+PyTorch – Alternative deep learning framework for CNN development.
+
+Model Architecture:
+Convolutional Neural Network (CNN) – Uses convolution, pooling, and fully connected layers to extract features and classify waste types.
+Moisture Sensor – Measures moisture to differentiate between wet and dry waste.
+
+Data Preparation & Labeling:
+Image Datasets – Labeled images of waste categories like Plastic, Paper, Metal, Glass, Organic, etc.
+Data Augmentation – Techniques such as rotation, flipping, and cropping to increase dataset variety and reduce overfitting.
+
+Hardware & IoT Integration:
+Edge devices (Raspberry Pi / NVIDIA Jetson Nano) – Deploy lightweight CNN models for real-time waste classification.
+Microcontrollers (NodeMCU / ESP32) – Integrate sensors to monitor bin conditions.
+
+Cloud Services & Deployment:
+AWS / Google Cloud / Azure – Train CNN models using large datasets and computational resources.
+
+---
+End Users
+Municipal Waste Management Authorities – For efficient waste segregation and management in cities and towns.
+Recycling Companies and Facilities – To automatically categorize and sort waste, improving recycling efficiency.
+Smart Waste Bin Manufacturers – To integrate AI-powered sorting and monitoring into intelligent bin systems.

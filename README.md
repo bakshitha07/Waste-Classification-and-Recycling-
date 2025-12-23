@@ -5,7 +5,7 @@
 ## ABSTRACT
  ---
  
-\This project aims to develop a smart waste management system that handles waste classification, sorting, and recycling challenges using IoT, Convolutional Neural Networks (CNN), and cloud computing. The Smart Waste Management System uses CNN-based image processing to analyze waste types in real time and automate the entire process from collection to disposal. The system consists of three modules that provide accurate waste detection, automated sorting, and user monitoring through a mobile app and LED display. Users only need to deploy the modules at waste collection points. The system provides precise data on waste volume, contamination, and processing status, enabling real-time monitoring and alerts without manual intervention.
+This project aims to develop a smart waste management system that handles waste classification, sorting, and recycling challenges using IoT, Convolutional Neural Networks (CNN), and cloud computing. The Smart Waste Management System uses CNN-based image processing to analyze waste types in real time and automate the entire process from collection to disposal. The system consists of three modules that provide accurate waste detection, automated sorting, and user monitoring through a mobile app and LED display. Users only need to deploy the modules at waste collection points. The system provides precise data on waste volume, contamination, and processing status, enabling real-time monitoring and alerts without manual intervention.
 
  ---
  
